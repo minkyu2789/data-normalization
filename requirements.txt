@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+tabulate
+joblib
+torch        # CNN을 쓸 때만 (없으면 규칙·랜덤포레스트만 실행)
+pyserial     # ESP32 로 요청 보낼 때만
+sounddevice  # PC 마이크 실시간(live.py --mic)일 때만
+imageio-ffmpeg  # 휴대폰 m4a/mp3 읽을 때 (ffmpeg 가 없으면)
