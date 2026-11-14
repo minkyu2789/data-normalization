@@ -1,0 +1,10 @@
+{
+  "subject": "demo",
+  "fs": 1000,
+  "mvc_uv": 258.58,
+  "rest_uv": 3.27,
+  "mvc_thr": 0.1,
+  "bg_mult": 2.0,
+  "all_ok": true,
+  "warnings": []
+}
